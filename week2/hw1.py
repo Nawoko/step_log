@@ -1,7 +1,7 @@
 import numpy as np, numpy
 import time
 import sys
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 if (len(sys.argv) != 2):
     print("usage: python %s N" % sys.argv[0])
